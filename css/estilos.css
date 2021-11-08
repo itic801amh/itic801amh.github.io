@@ -1,0 +1,9 @@
+html {font-family: sans-serif; text-align: center}
+body {display: inline-block; text-align: left; background: #8862AF;}
+label, legend {font-weight: bold}
+*:required, 
+.obligatorio {border: thin solid blue}
+input[type=number], 
+.numero {text-align: right}
+.error {color:red}
+table{background: silver;  border: 3px solid;}
